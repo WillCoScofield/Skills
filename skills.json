@@ -38,5 +38,10 @@
         ".scss": true,
         "Materialize": true,
         "Angular-Material": true
+    },
+    "IDEs": {
+        "VIM": true,
+        "IntelliJ": true,
+        "VS-Code": true
     }
 }
