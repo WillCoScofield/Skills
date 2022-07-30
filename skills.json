@@ -1,0 +1,42 @@
+{
+    "Javscript": {
+        "Node": {
+            "npm": true,
+            "yarn": true,
+            "express": true
+        },
+        "React": true,
+        "Angular": {
+            "ag-grid": true
+        },
+        "Cube.js": true,
+        "OAuth": true,
+        "Plotly.js": true,
+        "Testing": {
+            "Jest": true,
+            "Jasmine&Karma": true,
+            "React-Testing-Library": true
+        }
+    },
+    "Database": {
+        "PostgresQL": true,
+        "MongoDb": true
+    },
+    "DevOps": {
+        "OpenShift": true,
+        "Jenkins": true,
+        "Docker": true,
+        "Prometheus": true,
+        "Grafana": true
+    },
+    "Java": {
+        "Spring-Boot": true,
+        "Kotlin": true
+    },
+    "HTML": true,
+    "CSS": {
+        ".scss": true,
+        "Materialize": true,
+        "Angular-Material": true
+    }
+}
